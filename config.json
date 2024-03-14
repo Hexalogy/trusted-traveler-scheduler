@@ -1,0 +1,8 @@
+{
+  "location_ids": [ 5441 ],
+  "notification_level": 1,
+  "notification_urls": [ "discord://*redacted*/*redacted*/" ],
+  "retrieval_interval": "10s",
+  "start_appointment_time": "00:00",
+  "end_appointment_time": "23:59"
+}
